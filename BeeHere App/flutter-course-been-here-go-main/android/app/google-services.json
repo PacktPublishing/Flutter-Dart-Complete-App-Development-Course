@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872554024313",
+    "project_id": "been-here-go",
+    "storage_bucket": "been-here-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872554024313:android:fdb5f63104c9485085f3a8",
+        "android_client_info": {
+          "package_name": "com.example.been_here_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa4OxZtPCkIlX2EKs6A57NEMKDy-y4KDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
